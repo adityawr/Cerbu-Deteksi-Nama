@@ -44,7 +44,7 @@ irfani  :  Pria
 
 Menjalankan program dengan naive bayes dan dataset yg ditentukan ulang
 ```bash
-python jenis-kelamin.py -t "./data/data-pemilih-kpu.csv" "niky felina"
+python jenis-kelamin.py -t "./data-pemilih-kpu.csv" "niky felina"
 Akurasi : 93.5135135135 %
 Prediksi jenis kelamin dengan Logistic Regression :
 niky felina  :  Wanita
